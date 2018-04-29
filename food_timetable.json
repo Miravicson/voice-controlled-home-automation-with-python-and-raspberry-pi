@@ -1,0 +1,32 @@
+
+
+{
+  "monday": {
+    "morning": "Rice and Stew",
+    "evening": "Beans"
+  },
+  "tuesday": {
+    "morning": "Jellof Spaghetti",
+    "evening": "Semo and Okro"
+  },
+  "wednesday": {
+    "morning": "Beans",
+    "evening": "Rice and Stew"
+  },
+  "thursday": {
+    "morning": "Jellof Spaghetti",
+    "evening": "Beans"
+  },
+  "friday": {
+    "morning": "Raice, Beans and Stew",
+    "evening": "Beans"
+  },
+  "saturday": {
+    "morning": "Yam and Stew",
+    "evening": "Jellof Spaghetti"
+  },
+  "sunday": {
+    "morning": "Jellof Rice",
+    "evening": "Semo and Ogbono"
+  }
+}

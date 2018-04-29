@@ -1,0 +1,89 @@
+Anna, switch on the light.
+Anna, put on the light in the sitting room.
+Anna, put on the light in  room one.
+Anna, put on the light in  room 1.
+Anna, put on the light in room 2.
+Anna, put on the light in room two.
+Anna, put on the light in the balcony.
+Anna, turn on the light in the bedroom.
+Anna, it is dark.
+Anna, I want to sleep now.
+Anna, turn on the bulb.
+Anna, put on the bulb.
+Anna, switch off the light.
+Anna, put off the light in the sitting room.
+Anna, turn off the light in the bedroom.
+Anna, put off the bulb.
+Anna, put off the bulb.
+Anna, sing me a song.
+Anna, play me some cool song.
+Anna, I need some cool music.
+Anna, stop singing.
+Anna, I am bored.
+Anna, what songs do you have in your collection?
+Anna, what songs do you have for me?
+Anna, play next song.
+Anna, stop the song.
+Anna, pause the song.
+Anna, will you play me a song.
+Anna, just play some songs.
+Anna, switch on the fan.
+Anna, put on the fan in the sitting room.
+Anna, turn on the light in the bedroom.
+Anna, I feel hot.
+Anna, switch off the fan.
+Anna, put off the fan in the sitting room.
+Anna, turn off the fan in the bedroom.
+Anna, I feel cold.
+What are we having for breakfast, Anna?
+What should we eat now?
+What should we have for lunch on Sunday morning?
+What should we eat this morning?
+What should we eat on Monday night?
+What should we cook this morning?
+What are we eating on Wednesday?
+What is the menu for tomorrow?
+What should we eat today?
+What is the menu for breakfast today?
+What is the menu for Monday evening?
+What is the menu for Tuesday morning?
+What is the menu for Wednesday evening?
+What should we cook on Thursday morning?
+What are we to eat on Friday evening?
+What is on the food timetable for today?
+What is on the food menu for tomorrow?
+What are we to eat on Saturday?
+What are we to eat for dinner on Sunday night?
+Anna, what is the time now?
+Anna, tell me the time.
+Anna, what time is it?
+Anna, is it late already?
+I want to know the time.
+Anna, what is today's date?
+What is the date today, Anna?
+Tell me today's date Anna.
+I want to know today's date.
+Tell me about yourself.
+Could you tell me a story?
+Anything interesting happen today.
+Tell me a story.
+Who created you, Anna?
+What is the weather gonna be like today?
+What is the weather going to be like tomorrow evening?
+Is it going to be cloudy today?
+Will it rain tomorrow?
+What will the temperature tomorrow be like?
+Tell me about today's weather.
+Anna, switch power source to mains.
+Anna, switch power source to generator.
+Anna, is there power now?
+Annah.
+Anna.
+Annah.
+Good morning Annah.
+How are you Anna?
+What's up Anna?
+How're you doing Anna?
+Good afternoon Anna.
+Good evening Anna.
+Good night Annah.
